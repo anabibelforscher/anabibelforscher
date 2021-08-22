@@ -1,8 +1,4 @@
 ### Hey there! I'm Ana! 👋
-
-- 🔭 I’m currently working on Mobile Android Java
-- 🌱 <i>“I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.” - Ada Lovelace</i>
-
 <div>
   <a href="https://github.com/anabibelforscher">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabibelforscher&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -23,6 +19,9 @@
   <a href = "mailto:anaolivercontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-flavia-oliver/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+- 🔭 I’m currently working on Mobile Android Java
+- 🌱 <i>“I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.” - Ada Lovelace</i>
+
   ![Snake animation](https://github.com/anabibelforscher/anabibelforscher/blob/output/github-contribution-grid-snake.svg)
  
 </div>
