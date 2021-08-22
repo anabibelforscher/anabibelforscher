@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/ana-flavia-oliver/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 - 🔭 I’m currently working on Mobile Android Java
-- 🌱 <i>“I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.” - Ada Lovelace</i>
+- 🌱 <i>“I never am really satisfied that I understand anything; because, understand it well as I may, <br> my comprehension can only be an infinitesimal fraction of all I want to understand.” - Ada Lovelace</i>
 
   ![Snake animation](https://github.com/anabibelforscher/anabibelforscher/blob/output/github-contribution-grid-snake.svg)
  
