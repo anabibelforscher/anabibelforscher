@@ -7,7 +7,7 @@
  <div style="display: inline_block"><br>
     <img align="center" alt="Ana-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
     <img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-   <!--<img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">-->
+    <img align="center" alt="Ana-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="right" alt="Ana-gif" src="https://i.picasion.com/pic91/56edb19290c3f628de6de201a021dd9a.gif"  border="0"">
 </div>
     
