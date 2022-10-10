@@ -19,7 +19,7 @@
  
 - 👩🏻‍💻 I’m currently working on Mobile Android
 - 🛠️ Tools: Git, IntelliJ, Android Studio, Jira, Azure DevOps
-- 💭 Learning Kotlin, Back-End Java, AWS
+- 💭 Learning Kotlin and .NET C#
 - 🌱 <i>“I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.” - Ada Lovelace</i>
 
   ![Snake animation](https://github.com/anabibelforscher/anabibelforscher/blob/output/github-contribution-grid-snake.svg)
